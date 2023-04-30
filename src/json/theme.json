@@ -1,0 +1,25 @@
+[
+    {
+        "primaryBackground": "#000000",
+        "secondaryBackground": "#1C1C1C",
+        "primaryColor" : "#000000",
+        "purple": "#593FB5",
+        "red": "#FF3737",
+        "primaryText" : "#FFFFFF",
+        "secondaryText" : "rgba(255, 255, 255, 0.7)",
+        "green" : "#00FF00",
+        "yellow" : "#C58E02"
+        
+    },
+    {
+        "primaryBackground": "#FFFFFF",
+        "secondaryBackground": "#EAEAEA",
+        "primaryColor" : "#593FB5",
+        "purple": "#593FB5",
+        "red": "#FF3737",
+        "primaryText" : "#000000",
+        "secondaryText" : "rgba(0, 0, 0, 0.7)",
+        "green" : "#00FF00",
+        "yellow" : "#C58E02"
+    }
+]
